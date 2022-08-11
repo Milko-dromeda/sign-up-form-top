@@ -47,10 +47,3 @@ table {
 	border-spacing: 0;
 }
 
-.img-logo{
-	width: 10%;
-	height: fit-content;
-	position: fixed;
-	margin-left: 35%;
-	background-color: rgba(0, 0, 0 , 0.187);
-}
